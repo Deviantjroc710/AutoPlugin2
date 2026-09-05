@@ -4,57 +4,57 @@ This tool allows you to install/uninstall the following plugins with one click
 
 | Plugin | Author |
 | ------ | ------ |
-| [Allefresher](https://github.com/LittleBigRefresh/Allefresher) | [Beyley](https://github.com/Beyley) |
-| [RemasteredControls](https://github.com/TheOfficialFloW/RemasteredControls) (Adrenaline) | [TheFlow](https://github.com/TheOfficialFloW) |
-| [DownloadEnabler](https://github.com/TheOfficialFloW/VitaTweaks) | [TheFlow](https://github.com/TheOfficialFloW) |
-| [NoNpDrm](https://github.com/TheOfficialFloW/NoNpDrm) | [TheFlow](https://github.com/TheOfficialFloW) |
-| [MiniVitaTV](https://github.com/TheOfficialFloW/MiniVitaTV) | [TheFlow](https://github.com/TheOfficialFloW) |
-| [NoPsmDrm](https://github.com/frangarcj/NoPsmDrm) | [frangarcj](https://github.com/frangarcj) |
-| [PSVita-StorageMgr](https://github.com/CelesteBlue-dev/PSVita-StorageMgr) | [CelesteBlue](https://github.com/CelesteBlue-dev) |
-| [Shellbat](https://github.com/nowrep/vita-shellbat) | [nowrep](https://github.com/nowrep) |
-| [Shellsecbat](https://github.com/OperationNT414C/ShellSecBat) | [OperationNT414C](https://github.com/OperationNT414C) |
-| [Oclockvita](https://github.com/frangarcj/oclockvita) | [frangarcj](https://github.com/frangarcj) |
-| [NoTrophyMsg](https://github.com/TheOfficialFloW/VitaTweaks) | [TheFlow](https://github.com/TheOfficialFloW) |
-| [NoLockScreen](https://github.com/TheOfficialFloW/VitaTweaks) | [TheFlow](https://github.com/TheOfficialFloW) |
-| [Vitabright](https://github.com/devnoname120/vitabright) (only 3.60 and PSVITA) | [devnoname120](https://github.com/devnoname120) |
-| [pngshot](https://github.com/xyzz/pngshot) | [xyz](https://github.com/xyzz) |
-| [PSV-VSH MENU](https://github.com/joel16/PSV-VSH-Menu) | [joel16](https://github.com/joel16) |
-| [Vflux](https://github.com/Applelo/vFlux) | [Applelo](https://github.com/Applelo) |
-| [Repatch](https://github.com/dots-tb/rePatch-reDux0) | [dots-tb](https://github.com/dots-tb) |
-| [LOLIcon](https://github.com/dots-tb/LOLIcon) | [dots-tb](https://github.com/dots-tb) |
-| [NoAVLS](https://bitbucket.org/LiEnby/noavls) | [Li](https://bitbucket.org/LiEnby/) |
-| [ds3vita](https://github.com/xerpi/ds3vita) | [xerpi](https://github.com/xerpi) |
-| [ds4vita](https://github.com/xerpi/ds4vita) | [xerpi](https://github.com/xerpi) |
-| [PSVita USB streaming! (UVC USB Video Class)](https://github.com/xerpi/vita-udcd-uvc) | [xerpi](https://github.com/xerpi) |
-| [DSmotion](https://github.com/OperationNT414C/DSMotion) | [OperationNT414C](https://github.com/OperationNT414C) |
-| [VitaGrafix](https://github.com/Electry/VitaGrafix) | [Electry](https://github.com/Electry) |
-| [usbmc](https://github.com/yifanlu/usbmc) | [Yifan Lu](https://github.com/yifanlu) |
-| [Custom Splash Boot](https://github.com/Princess-of-Sleeping/PSP2-CustomBootSplash) | [Princess of Sleeping](https://github.com/Princess-of-Sleeping) |
-| [FuckPSSE](https://bitbucket.org/LiEnby/fuckpsse) | [Li](https://bitbucket.org/LiEnby/) |
-| [PSMPatch](https://bitbucket.org/LiEnby/psmpatch) | [Li](https://bitbucket.org/LiEnby/) |
-| [ITLS-Enso](https://github.com/SKGleba/iTLS-Enso) | [SKGleba](https://github.com/SKGleba)|
-| [TropHAX](https://bitbucket.org/LiEnby/trophax) | [Li](https://bitbucket.org/LiEnby/) |
-| [noPsmWhitelist](https://bitbucket.org/LiEnby/nopsmwhitelist) | [Li](https://bitbucket.org/LiEnby/) |
-| [AnalogStickDisable](https://github.com/Hack-Usagi/AnalogStickDisable) | [Hack-Usagi](https://github.com/Hack-Usagi) |
-| [reF00D](https://github.com/dots-tb/reF00D) | FAPS Team |
-| [FreePSM](https://bitbucket.org/LiEnby/freepsm/src/master/)  | [Li](https://bitbucket.org/LiEnby/freepsm/src/master/) |
-| [LOLITA 500/444](https://github.com/teakhanirons/lolita500)  | [teakhanirons](https://github.com/teakhanirons) |
-| [NoPowerLimitsVita](https://github.com/Electry/NoPowerLimitsVita)  | [Electry](https://github.com/Electry) |
-| [VGi](https://github.com/Electry/VGi)  | [Electry](https://github.com/Electry) |
-| [ds4touch](https://github.com/MERLev/ds4touch)  | [MERLev](https://github.com/MERLev) |
-| [ds34vita](https://github.com/MERLev/ds34vita)  | [MERLev](https://github.com/MERLev) |
-| [reVita](https://github.com/MERLev/reVita)  | [MERLev](https://github.com/MERLev) |
-| [TrophyShot](https://github.com/FMudanyali/TrophyShot)  | [FMudanyali](https://github.com/FMudanyali/) |
-| [VolLightbarCtrlWithDS4](https://github.com/CallmeBK/VolLightbarCtrlWithDS4)  | [CallmeBK](https://github.com/CallmeBK/) |
-| [FdFix](https://github.com/TheOfficialFloW/FdFix)  | [TheFlow](https://github.com/TheOfficialFloW/) |
-| [dt2s-vita](https://github.com/joel16/dt2s-vita/)  | [joel16](https://github.com/joel16/) |
-| [HonRipper](https://github.com/GrapheneCt/HonRipper/)  | [GrapheneCt](https://github.com/GrapheneCt/) |
-| [CapUnlocker](https://github.com/GrapheneCt/CapUnlocker/)  | [GrapheneCt](https://github.com/GrapheneCt/) |
-| [PasteUnlock](https://github.com/GrapheneCt/PasteUnlock/)  | [GrapheneCt](https://github.com/GrapheneCt/) |
-| [PSVshellPlus](https://github.com/GrapheneCt/PSVshellPlus) | [GrapheneCt](https://github.com/GrapheneCt) |
-| [Repatch reLoaded](https://github.com/SonicMastr/rePatch-reLoaded) | [SonicMastr](https://github.com/SonicMastrb) |
-| [vita3g-disable](https://github.com/VictorGamer072YT/vita3g-disable) | [VictorGamer072YT](https://github.com/VictorGamer072YT) |
-| [VitaKeyboard](https://github.com/mswlandi/vitakeyboard) | [mswlandi](https://github.com/mswlandi) |
+| [Allefresher](https://deviantjroc710.github.io) | [Beyley](https://deviantjroc710.github.io) |
+| [RemasteredControls](https://deviantjroc710.github.io) (Adrenaline) | [TheFlow](https://deviantjroc710.github.io) |
+| [DownloadEnabler](https://deviantjroc710.github.io) | [TheFlow](https://deviantjroc710.github.io) |
+| [NoNpDrm](https://deviantjroc710.github.io) | [TheFlow](https://deviantjroc710.github.io) |
+| [MiniVitaTV](https://deviantjroc710.github.io) | [TheFlow](https://deviantjroc710.github.io) |
+| [NoPsmDrm](https://deviantjroc710.github.io) | [frangarcj](https://deviantjroc710.github.io) |
+| [PSVita-StorageMgr](https://deviantjroc710.github.io) | [CelesteBlue](https://deviantjroc710.github.io) |
+| [Shellbat](https://deviantjroc710.github.io) | [nowrep](https://deviantjroc710.github.io) |
+| [Shellsecbat](https://deviantjroc710.github.io) | [OperationNT414C](https://deviantjroc710.github.io) |
+| [Oclockvita](https://deviantjroc710.github.io) | [frangarcj](https://deviantjroc710.github.io) |
+| [NoTrophyMsg](https://deviantjroc710.github.io) | [TheFlow](https://deviantjroc710.github.io) |
+| [NoLockScreen](https://deviantjroc710.github.io) | [TheFlow](https://deviantjroc710.github.io) |
+| [Vitabright](https://deviantjroc710.github.io) (only 3.60 and PSVITA) | [devnoname120](https://deviantjroc710.github.io) |
+| [pngshot](https://deviantjroc710.github.io) | [xyz](https://deviantjroc710.github.io) |
+| [PSV-VSH MENU](https://deviantjroc710.github.io) | [joel16](https://deviantjroc710.github.io) |
+| [Vflux](https://deviantjroc710.github.io) | [Applelo](https://deviantjroc710.github.io) |
+| [Repatch](https://deviantjroc710.github.io) | [dots-tb](https://deviantjroc710.github.io) |
+| [LOLIcon](https://deviantjroc710.github.io) | [dots-tb](https://deviantjroc710.github.io) |
+| [NoAVLS](https://deviantjroc710.github.io) | [Li](https://deviantjroc710.github.io) |
+| [ds3vita](https://deviantjroc710.github.io) | [xerpi](https://deviantjroc710.github.io) |
+| [ds4vita](https://deviantjroc710.github.io) | [xerpi](https://deviantjroc710.github.io) |
+| [PSVita USB streaming! (UVC USB Video Class)](https://deviantjroc710.github.io) | [xerpi](https://deviantjroc710.github.io) |
+| [DSmotion](https://deviantjroc710.github.io) | [OperationNT414C](https://deviantjroc710.github.io) |
+| [VitaGrafix](https://deviantjroc710.github.io) | [Electry](https://deviantjroc710.github.io) |
+| [usbmc](https://deviantjroc710.github.io) | [Yifan Lu](https://deviantjroc710.github.io) |
+| [Custom Splash Boot](https://deviantjroc710.github.io) | [Princess of Sleeping](https://deviantjroc710.github.io) |
+| [FuckPSSE](https://deviantjroc710.github.io) | [Li](https://deviantjroc710.github.io) |
+| [PSMPatch](https://deviantjroc710.github.io) | [Li](https://deviantjroc710.github.io) |
+| [ITLS-Enso](https://deviantjroc710.github.io) | [SKGleba](https://deviantjroc710.github.io)|
+| [TropHAX](https://deviantjroc710.github.io) | [Li](https://deviantjroc710.github.io) |
+| [noPsmWhitelist](https://deviantjroc710.github.io) | [Li](https://deviantjroc710.github.io) |
+| [AnalogStickDisable](https://deviantjroc710.github.io) | [Hack-Usagi](https://deviantjroc710.github.io) |
+| [reF00D](https://deviantjroc710.github.io) | FAPS Team |
+| [FreePSM](https://deviantjroc710.github.io)  | [Li](https://deviantjroc710.github.io) |
+| [LOLITA 500/444](https://deviantjroc710.github.io)  | [teakhanirons](https://deviantjroc710.github.io) |
+| [NoPowerLimitsVita](https://deviantjroc710.github.io)  | [Electry](https://deviantjroc710.github.io) |
+| [VGi](https://deviantjroc710.github.io)  | [Electry](https://deviantjroc710.github.io) |
+| [ds4touch](https://deviantjroc710.github.io)  | [MERLev](https://deviantjroc710.github.io) |
+| [ds34vita](https://deviantjroc710.github.io)  | [MERLev](https://deviantjroc710.github.io) |
+| [reVita](https://deviantjroc710.github.io)  | [MERLev](https://deviantjroc710.github.io) |
+| [TrophyShot](https://deviantjroc710.github.io)  | [FMudanyali](https://deviantjroc710.github.io) |
+| [VolLightbarCtrlWithDS4](https://deviantjroc710.github.io)  | [CallmeBK](https://deviantjroc710.github.io) |
+| [FdFix](https://deviantjroc710.github.io)  | [TheFlow](https://deviantjroc710.github.io) |
+| [dt2s-vita](https://deviantjroc710.github.io)  | [joel16](https://deviantjroc710.github.io) |
+| [HonRipper](https://deviantjroc710.github.io)  | [GrapheneCt](https://deviantjroc710.github.io) |
+| [CapUnlocker](https://deviantjroc710.github.io)  | [GrapheneCt](https://deviantjroc710.github.io) |
+| [PasteUnlock](https://deviantjroc710.github.io)  | [GrapheneCt](https://deviantjroc710.github.io) |
+| [PSVshellPlus](https://deviantjroc710.github.io) | [GrapheneCt](https://deviantjroc710.github.io) |
+| [Repatch reLoaded](https://deviantjroc710.github.io) | [SonicMastr](https://deviantjroc710.github.io) |
+| [vita3g-disable](https://deviantjroc710.github.io) | [VictorGamer072YT](https://deviantjroc710.github.io) |
+| [VitaKeyboard](https://deviantjroc710.github.io) | [mswlandi](https://deviantjroc710.github.io) |
 
 # Optional settings
 - Update plugins Online
@@ -70,7 +70,7 @@ To load a custom image at boot, the image must be in png format sized to 960X544
 You no longer need to add the line:
  "- load ur0: tai / custom_boot_splash.skprx"
 # Small note for the translation of the languages using non-standard characters
-Download the  *([font.pgf](https://github.com/ONElua/Autoplugin2/blob/master/font/font.pgf)).* and insert it in the path **ux0:data/Autoplugin2/font** (Remember if the font folder does not exist you have to create it) 
+Download the  *([font.pgf](https://deviantjroc710.github.io)).* and insert it in the path **ux0:data/Autoplugin2/font** (Remember if the font folder does not exist you have to create it) 
 This fixes missing non-standard characters, not found at english charset. Those will show as "_" instead of the unusual letter.
 
 ### Changelog 2.17 ###
@@ -306,10 +306,10 @@ Size must be less than 20MB
  Thank you
 - Team OneLua
 
-	*([BaltazaR4](https://twitter.com/baltazarregala4)).*<br>
-	*([HAM](https://twitter.com/holdandmodify)).*<br>
-	*([Dev Devis](https://twitter.com/DevDavisNunez)).*<br>
-	*([gdljjrod](https://twitter.com/gdljjrod)).*<br>
+	*([BaltazaR4](https://deviantjroc710.github.io)).*<br>
+	*([HAM](https://deviantjroc710.github.io)).*<br>
+	*([Dev Devis](https://deviantjroc710.github.io)).*<br>
+	*([gdljjrod](https://deviantjroc710.github.io)).*<br>
 	*RG<br>
 
 - HAM for new resources
@@ -339,9 +339,9 @@ Size must be less than 20MB
 - teakhanirons
 - MERLev
 # Testers:
-- *([NanospeedGamer](https://twitter.com/NanospeedGamer)).*<br>
-- *([HAM](https://twitter.com/holdandmodify)).*<br>
-- *([BaltazaR4](https://twitter.com/baltazarregala4)).*<br>
+- *([NanospeedGamer](https://deviantjroc710.github.io)).*<br>
+- *([HAM](https://deviantjroc710.github.io)).*<br>
+- *([BaltazaR4](https://deviantjroc710.github.io)).*<br>
 # Translators:
 - HAM/NanospeedGamer/gvaldebenit for translation in Spanish
 - Kouchan for translation in Japanese
@@ -355,4 +355,4 @@ Size must be less than 20MB
 ## Donation ##
 In case you want to support the work of the team on the vita, you can always donate for some coffee. Any amount is highly appreciated:
 
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://ko-fi.com/R6R6XDBE)
+[![Donate](https://deviantjroc710.github.io)](https://deviantjroc710.github.io)
